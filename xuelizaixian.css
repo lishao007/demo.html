@@ -1,0 +1,131 @@
+.header{
+	height: 101px;
+	width: 100%;
+}
+.container{
+	width: 1020px;
+	margin: 0 auto;
+}
+.logo{
+	float: left;
+	padding-top:33px; 
+}
+.nav{
+	float: left;
+	margin-top: 42px;
+}
+form{
+	border: 1px solid blue;
+	margin-top: 30px;
+	margin-left: 80px;
+	float: left;
+}
+.nav li{
+	width: 100px;
+	float: left;
+	text-align: center;
+}
+.header a{
+	font-size:18px;
+	font-weight:400;
+	color:rgba(5,5,5,1);
+}
+.search{
+	width: 360px;
+	height: 40px;
+	float: left;
+}
+.submit{
+	width: 50px;
+	height: 40px;
+	background:rgba(0,0,0,1) url(../img/header.png) no-repeat center center;
+	float: left;
+	border: none;
+}
+.header p{
+	float: right;
+	margin-top: 40px;
+	height:12px;
+	font-size:14px;
+	font-weight:400;
+	color:rgba(102,102,102,1);
+}
+.nextfirst{
+	background: url(../img/nextfirst.png) no-repeat center center;
+	height: 420px;
+	width: 100%;
+}
+.nextfirst ul{
+	background: url(../img/课程明细背景.png) no-repeat center center;
+	width:190px;
+	height:420px;
+	background:rgba(0,0,0,1);
+	opacity:0.3;
+}
+.nextfirst li{
+	width:190px;
+	height:50px;
+	font-color:white;
+	font-size: 14px;
+}
+.nextfirst .one{
+	margin-top: 27px;
+}
+.nextfirst .nine{
+	margin-bottom: 28px;
+}
+.nextsecond .eight{
+	float: right;
+}
+.nextsecond li{
+	float: left;
+	width: 130px;
+	height:70px;
+}
+.nextfouth img{
+	float: left;
+	width: 200px;
+	height: 260px;
+}
+.nextfifth li{
+	float: left;
+	width: 150px;
+	height: 60px;
+	text-align: center;
+	line-height: 60px;
+}
+.nextfifth .six{
+	float: right;
+}
+.nextsixth img{
+	width: 200px;
+	height: 270px;
+}
+.nexteigth .one{
+	height: 320px;
+	width:400px;
+}
+.nexteigth .two{
+	height: 340px;
+	width: 200px;
+}
+.last .one{
+	float: left;
+	width: 420px;
+	height: 420px;
+}
+.last .two{
+	float: left;
+	width: 200px;
+	height: 420px;
+}
+.last .three{
+	float: left;
+	width: 200px;
+	height: 420px;
+}
+.last .four{
+	float: right;
+	width: 200px;
+	height: 420px;
+}
